@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="lib" path="C:/Users/orlai/OneDrive/Documents/Final Year/CSC3056/Lab2/Lab 2- artifacts/jcommon-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/orlai/OneDrive/Documents/Final Year/CSC3056/Lab2/Lab 2- artifacts/jfreechart.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
